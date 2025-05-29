@@ -14,7 +14,7 @@ git clone https://github.com/arcqai/ai-chatbot-development.git
 
 ## Contact
 Visit our website: [https://arcq.ai](https://arcq.ai)  
-Email: contact@arcq.ai
+Email: doyeoun@arcq.ai
 
 ## License
 This project is licensed under the MIT License.
